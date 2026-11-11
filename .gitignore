@@ -1,0 +1,16 @@
+# Binarios y compilados
+bin/*
+!bin/.gitkeep
+obj/*
+!obj/.gitkeep
+
+# Archivos generados por el sistema operativo o VS Code
+.vscode/
+.DS_Store
+*.o
+*.exe
+*.out
+
+# Datos generados en ejecucion
+data/biblioteca.dat
+data/log_benchmark.txt
