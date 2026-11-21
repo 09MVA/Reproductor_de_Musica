@@ -18,6 +18,7 @@ class Artista {
         Artista(const char* nom, const char* pais);
         Artista(const Artista& otro);
         Artista& operator=(const Artista& otro);
+        ~Artista();
 
         void agregarObra(Cancion* cancion);
         void mostrarDiscografia()const;
