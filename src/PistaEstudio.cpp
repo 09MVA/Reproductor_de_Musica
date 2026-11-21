@@ -7,7 +7,7 @@ using namespace std;
 class PistaEstudio : public Cancion {
     private:
 
-        char* estudio;                     // ➕ agregado
+        char* estudio; 
 
     public:
 
