@@ -36,7 +36,7 @@ Proyecto final desarrollado en **C++** enfocado en la aplicación práctica de l
 ├── bin/                    # Ejecutable compilado (reproductor_final.exe)
 ├── data/                   # Archivos de persistencia y lotes de prueba MP3
 │   ├── musica/             # Pistas MP3 base
-│   ├── pack_10/            # Lote de prueba con 10 pistas
+│   ├── pack_10/            # Lote de prueba con 10 pistas (no incluye pero si gustan colocan mas)
 │   ├── pack_20/            # Lote de prueba con 20 pistas
 │   ├── pack_30/            # Lote de prueba con 30 pistas
 │   ├── pack_50/            # Lote de prueba con 50 pistas
