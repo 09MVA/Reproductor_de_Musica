@@ -15,7 +15,7 @@ ColaReproduccion::ColaReproduccion(const ColaReproduccion& otra) {
     posicionActual = otra.posicionActual;
     canciones = new Cancion*[capacidad];
     for (int i = 0; i < cantidad; i++) {
-        *(canciones + i) = *(otra.canciones + i);
+        canciones[i] = otra.canciones[i];
     }
 }
 
